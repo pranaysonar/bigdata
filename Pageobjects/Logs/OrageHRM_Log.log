@@ -1,0 +1,584 @@
+2024-09-19 14:35:55,182 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 14:35:55,356 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 14:35:55,378 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 14:35:55,386 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 14:35:57,386 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 14:36:03,548 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 14:36:09,185 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 14:42:13,220 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 14:42:13,335 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 14:42:13,664 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 14:42:13,680 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 14:42:15,682 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 14:42:25,374 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 14:42:34,731 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 14:43:22,920 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : test_OrangeHRM_Login_002 is started
+2024-09-19 14:43:22,920 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 48 : Opening the browser
+2024-09-19 14:43:22,921 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Entering Username-->Admin
+2024-09-19 14:43:29,001 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 56 : Entering Password-->admin123
+2024-09-19 14:43:29,500 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on login button
+2024-09-19 14:43:30,172 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : Verifying the login status
+2024-09-19 14:43:36,954 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 63 : test_OrangeHRM_Login_002 is passed
+2024-09-19 14:43:38,956 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 65 : Taking the screenshot
+2024-09-19 14:43:40,390 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 67 : Clicking on Menu button
+2024-09-19 14:43:40,780 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Clicking on logout button
+2024-09-19 14:43:42,823 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 77 : Closing the browser
+2024-09-19 14:43:46,476 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 79 : test_OrangeHRM_Login_002 is completed
+2024-09-19 14:59:37,884 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 14:59:38,086 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 14:59:39,669 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 14:59:39,957 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 14:59:41,957 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 14:59:43,055 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 14:59:48,090 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 15:00:26,887 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : test_OrangeHRM_Login_002 is started
+2024-09-19 15:00:26,887 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 48 : Opening the browser
+2024-09-19 15:00:26,888 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Entering Username-->Admin
+2024-09-19 15:00:27,739 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 56 : Entering Password-->admin123
+2024-09-19 15:00:27,957 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on login button
+2024-09-19 15:00:29,777 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : Verifying the login status
+2024-09-19 15:00:35,668 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 63 : test_OrangeHRM_Login_002 is passed
+2024-09-19 15:00:37,670 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 65 : Taking the screenshot
+2024-09-19 15:00:38,451 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 67 : Clicking on Menu button
+2024-09-19 15:00:38,750 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Clicking on logout button
+2024-09-19 15:00:40,664 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 77 : Closing the browser
+2024-09-19 15:00:43,243 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 79 : test_OrangeHRM_Login_002 is completed
+2024-09-19 15:09:28,807 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 15:09:28,844 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 15:09:31,441 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 15:09:31,881 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 15:09:33,883 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 15:09:35,018 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 15:09:38,474 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 15:10:11,073 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : test_OrangeHRM_Login_002 is started
+2024-09-19 15:10:11,074 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 48 : Opening the browser
+2024-09-19 15:10:11,074 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Entering Username-->Admin
+2024-09-19 15:10:11,968 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 56 : Entering Password-->admin123
+2024-09-19 15:10:12,392 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on login button
+2024-09-19 15:10:14,289 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : Verifying the login status
+2024-09-19 15:10:19,331 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 63 : test_OrangeHRM_Login_002 is passed
+2024-09-19 15:10:21,347 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 65 : Taking the screenshot
+2024-09-19 15:10:22,079 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 67 : Clicking on Menu button
+2024-09-19 15:10:22,185 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Clicking on logout button
+2024-09-19 15:10:23,590 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 77 : Closing the browser
+2024-09-19 15:10:25,897 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 79 : test_OrangeHRM_Login_002 is completed
+2024-09-19 15:12:23,999 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 15:12:24,003 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 15:12:25,953 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 15:12:25,968 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 15:12:27,970 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 15:12:28,605 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 15:12:30,914 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 15:13:02,797 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : test_OrangeHRM_Login_002 is started
+2024-09-19 15:13:02,797 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 48 : Opening the browser
+2024-09-19 15:13:02,797 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Entering Username-->Admin
+2024-09-19 15:13:09,914 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 56 : Entering Password-->admin123
+2024-09-19 15:13:10,594 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on login button
+2024-09-19 15:13:11,474 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : Verifying the login status
+2024-09-19 15:13:18,845 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 63 : test_OrangeHRM_Login_002 is passed
+2024-09-19 15:13:20,847 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 65 : Taking the screenshot
+2024-09-19 15:13:22,060 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 67 : Clicking on Menu button
+2024-09-19 15:13:22,754 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Clicking on logout button
+2024-09-19 15:13:26,202 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 77 : Closing the browser
+2024-09-19 15:13:28,967 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 79 : test_OrangeHRM_Login_002 is completed
+2024-09-19 15:14:45,822 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 23 : test_OrangeHRM_url_001 is started
+2024-09-19 15:14:45,823 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 25 : Opening Browser
+2024-09-19 15:14:45,866 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 27 : Verifying the page title
+2024-09-19 15:14:45,877 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 29 : test_OrangeHRM_url_001 is passed, user is landed on correct url
+2024-09-19 15:14:47,879 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 31 : Taking the screenshot
+2024-09-19 15:14:48,516 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 40 : Closing the Browser
+2024-09-19 15:14:50,931 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 42 : test_OrangeHRM_url_001 is completed
+2024-09-19 15:15:25,169 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : test_OrangeHRM_Login_002 is started
+2024-09-19 15:15:25,169 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 48 : Opening the browser
+2024-09-19 15:15:25,169 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Entering Username-->Admin
+2024-09-19 15:15:26,110 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 56 : Entering Password-->admin123
+2024-09-19 15:15:26,265 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on login button
+2024-09-19 15:15:27,974 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : Verifying the login status
+2024-09-19 15:15:33,004 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 63 : test_OrangeHRM_Login_002 is passed
+2024-09-19 15:15:35,006 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 65 : Taking the screenshot
+2024-09-19 15:15:35,671 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 67 : Clicking on Menu button
+2024-09-19 15:15:35,755 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Clicking on logout button
+2024-09-19 15:15:36,813 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 77 : Closing the browser
+2024-09-19 15:15:39,103 : INFO :  Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 79 : test_OrangeHRM_Login_002 is completed
+2024-09-19 16:41:22,280 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:41:22,323 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:41:22,337 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:43:03,888 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:43:04,070 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:43:04,074 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:43:21,809 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 26 : Entering Password-->admin123
+2024-09-19 16:43:22,396 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 29 : Clicking on login button
+2024-09-19 16:43:23,910 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 31 : Verifying the login status
+2024-09-19 16:43:43,821 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 61 : Closing the browser
+2024-09-19 16:43:47,351 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 63 : test_OrangeHRM_Login_params_003 is completed
+2024-09-19 16:44:41,237 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:44:41,237 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:44:41,237 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:45:03,108 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:45:03,108 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:45:03,108 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:45:15,312 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:45:15,312 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:45:15,312 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:48:09,272 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:48:09,454 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:48:09,454 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:49:08,657 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:49:08,658 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:49:08,658 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:49:44,465 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:49:44,467 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:49:44,467 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:50:14,621 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:50:14,621 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:50:14,621 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:52:02,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:52:02,054 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:52:02,054 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:52:28,024 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:52:28,025 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:52:28,025 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:52:48,871 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:52:48,872 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:52:48,872 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:53:13,905 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:53:13,906 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:53:13,906 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:58:01,987 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:58:02,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:58:02,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 16:58:46,602 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:58:46,603 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:58:46,603 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 16:59:31,251 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 16:59:31,251 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 16:59:31,251 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 17:00:00,089 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:00:00,090 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 17:00:00,090 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 17:01:09,226 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:01:09,226 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 17:01:09,226 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 17:01:16,590 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:01:16,590 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 17:01:16,590 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 17:01:32,755 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:01:32,755 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 17:01:32,755 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin
+2024-09-19 17:01:49,899 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 16 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:01:49,899 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 18 : Opening the browser
+2024-09-19 17:01:49,899 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 23 : Entering Username-->Admin1
+2024-09-19 17:17:11,656 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-19 17:17:16,069 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-19 17:17:16,069 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-19 17:17:16,087 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-19 17:17:16,111 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-19 17:17:16,189 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-19 17:17:16,219 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-19 17:17:16,233 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-19 17:17:16,244 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-19 17:17:49,614 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 25 : Entering Password-->admin123
+2024-09-19 17:17:49,614 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 25 : Entering Password-->admin1231
+2024-09-19 17:17:49,848 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 25 : Entering Password-->admin123
+2024-09-19 17:17:57,168 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 28 : Clicking on login button
+2024-09-19 17:17:58,036 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 28 : Clicking on login button
+2024-09-19 17:17:58,801 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 28 : Clicking on login button
+2024-09-19 17:18:29,010 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 30 : Verifying the login status
+2024-09-19 17:18:29,383 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 30 : Verifying the login status
+2024-09-19 17:18:29,704 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 30 : Verifying the login status
+2024-09-19 17:18:45,547 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 57 : test_OrangeHRM_Login_params_003 is passed
+2024-09-19 17:18:45,552 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 57 : test_OrangeHRM_Login_params_003 is passed
+2024-09-19 17:18:46,150 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 58 : Taking a screenshot
+2024-09-19 17:18:46,287 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 58 : Taking a screenshot
+2024-09-19 17:18:59,844 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 61 : Closing the browser
+2024-09-19 17:19:00,761 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 61 : Closing the browser
+2024-09-19 17:19:12,480 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 61 : Closing the browser
+2024-09-19 17:20:16,390 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 63 : test_OrangeHRM_Login_params_003 is completed
+2024-09-19 17:20:16,390 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 63 : test_OrangeHRM_Login_params_003 is completed
+2024-09-19 17:20:16,390 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 63 : test_OrangeHRM_Login_params_003 is completed
+2024-09-20 11:39:07,029 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:39:07,076 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:39:07,076 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-20 11:39:38,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:39:38,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:39:38,052 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-20 11:39:51,954 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:39:51,954 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:39:51,954 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-20 11:39:58,277 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:39:58,278 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:39:58,279 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-20 11:44:53,183 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:44:53,230 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:44:53,230 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-20 11:44:53,330 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:44:53,330 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:44:53,330 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin
+2024-09-20 11:45:05,801 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 25 : Entering Password-->admin123
+2024-09-20 11:45:06,635 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 28 : Clicking on login button
+2024-09-20 11:45:11,743 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 30 : Verifying the login status
+2024-09-20 11:45:17,118 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 33 : test_OrangeHRM_Login_params_003 is passed
+2024-09-20 11:45:19,121 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 35 : Taking the screenshot
+2024-09-20 11:45:21,537 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 37 : Clicking on Menu button
+2024-09-20 11:45:23,226 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 39 : Clicking on logout button
+2024-09-20 11:45:26,240 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 61 : Closing the browser
+2024-09-20 11:45:31,362 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 63 : test_OrangeHRM_Login_params_003 is completed
+2024-09-20 11:45:47,036 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:45:47,036 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:45:47,036 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-20 11:46:05,852 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 15 : test_OrangeHRM_Login_params_003 is started
+2024-09-20 11:46:05,868 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 17 : Opening the browser
+2024-09-20 11:46:05,868 : INFO :  Test_OrangeHRM_Login_params : test_OrangeHRM_Login_params_003 : 22 : Entering Username-->Admin1
+2024-09-20 17:20:22,535 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 17:20:22,640 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 17:31:51,962 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 17:31:52,015 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 17:52:52,909 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 17:52:53,431 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 18:01:21,121 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 18:01:22,037 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 18:11:25,693 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 18:11:25,705 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 18:27:50,112 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 18:27:50,364 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 18:39:11,030 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 18:39:13,571 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 18:47:27,618 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 18:47:27,761 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-20 19:00:22,570 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-09-20 19:00:22,667 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-09-23 18:59:57,705 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 18:59:58,065 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 18:59:58,065 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 19:00:53,166 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 19:00:53,167 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 19:00:53,168 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:02:22,949 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 20:02:23,062 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 20:02:23,062 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:02:43,322 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 20:02:43,846 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 20:02:44,982 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 20:02:53,464 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 20:02:54,920 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 20:02:56,179 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 20:02:56,590 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 20:02:56,675 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 20:02:58,312 : INFO :  Test_AddEmp : test_AddEmp_005 : 44 : Validating the success message for add emp 
+2024-09-23 20:02:59,205 : INFO :  Test_AddEmp : test_AddEmp_005 : 46 : test_AddEmp_005 testcase is passed
+2024-09-23 20:02:59,205 : INFO :  Test_AddEmp : test_AddEmp_005 : 52 : test_AddEmp_005 testcase is completed
+2024-09-23 20:08:09,609 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 20:08:09,640 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 20:08:09,640 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:08:44,809 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 20:08:48,453 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 20:08:55,861 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 20:11:06,968 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 20:11:30,109 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 20:11:46,505 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 20:11:57,429 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 20:11:58,268 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 20:12:10,896 : INFO :  Test_AddEmp : test_AddEmp_005 : 44 : Validating the success message for add emp 
+2024-09-23 20:12:21,331 : INFO :  Test_AddEmp : test_AddEmp_005 : 49 : test_AddEmp_005 testcase is failed
+2024-09-23 20:43:37,245 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 20:43:39,232 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 20:43:39,383 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:54:37,781 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 20:54:37,844 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 20:54:37,844 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:55:00,525 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 20:55:01,179 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 20:55:03,704 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 20:55:07,576 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 20:55:09,804 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 20:55:10,806 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 20:55:10,822 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 20:55:11,038 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 20:55:11,423 : INFO :  Test_AddEmp : test_AddEmp_005 : 44 : Validating the success message for add emp 
+2024-09-23 20:55:13,028 : INFO :  Test_AddEmp : test_AddEmp_005 : 46 : test_AddEmp_005 testcase is passed
+2024-09-23 20:55:13,028 : INFO :  Test_AddEmp : test_AddEmp_005 : 52 : test_AddEmp_005 testcase is completed
+2024-09-23 20:59:05,440 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 20:59:05,625 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 20:59:05,625 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 20:59:17,218 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 20:59:17,874 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 20:59:22,203 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 20:59:26,917 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 20:59:28,822 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 20:59:29,523 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 20:59:29,539 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 20:59:29,561 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 21:01:59,028 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:01:59,143 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:01:59,143 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:02:04,503 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:02:04,943 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:02:07,640 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:02:12,624 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:02:14,567 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 21:02:15,248 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 21:02:15,270 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 21:02:15,301 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 21:09:49,511 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:09:49,944 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:09:49,944 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:09:57,298 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:09:58,187 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:10:05,676 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:10:13,495 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:12:58,484 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:12:58,669 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:12:58,669 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:13:09,318 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:13:10,323 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:13:12,702 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:13:17,324 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:13:19,291 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 21:13:20,414 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 21:13:20,445 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 21:13:20,498 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 21:18:13,760 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:18:13,876 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:18:13,876 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:18:29,190 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:18:30,541 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:18:38,083 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:18:50,260 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:18:52,001 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 21:18:52,818 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 21:18:52,871 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 21:18:52,887 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 21:20:22,322 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:20:22,644 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:20:22,644 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:20:36,942 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:20:37,591 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:20:44,366 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:20:47,422 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:20:49,743 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 21:20:50,946 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 21:20:51,966 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 21:20:52,406 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-23 21:20:56,023 : INFO :  Test_AddEmp : test_AddEmp_005 : 45 : Validating the success message for add emp 
+2024-09-23 21:21:08,242 : INFO :  Test_AddEmp : test_AddEmp_005 : 51 : test_AddEmp_005 testcase is failed
+2024-09-23 21:27:49,458 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-23 21:27:49,627 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-23 21:27:49,627 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-23 21:27:56,355 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-23 21:27:56,884 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-23 21:27:59,771 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-23 21:28:03,036 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-23 21:28:05,020 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-23 21:28:05,726 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-23 21:28:05,763 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-23 21:28:05,814 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:09:25,114 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-24 11:09:25,527 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-24 11:09:25,527 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-24 11:09:43,914 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-24 11:09:45,055 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-24 11:09:51,516 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-24 11:10:01,718 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-24 11:10:14,209 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-24 11:10:15,069 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-24 11:10:15,108 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-24 11:10:15,140 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:15:03,022 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-24 11:15:03,113 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-24 11:15:03,113 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-24 11:15:17,137 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-24 11:15:20,124 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-24 11:15:28,002 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-24 11:15:33,896 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-24 11:15:36,038 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-24 11:15:37,023 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-24 11:15:37,064 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-24 11:15:37,106 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:15:40,639 : INFO :  Test_AddEmp : test_AddEmp_005 : 45 : Validating the success message for add emp 
+2024-09-24 11:15:40,884 : INFO :  Test_AddEmp : test_AddEmp_005 : 47 : test_AddEmp_005 testcase is passed
+2024-09-24 11:15:40,884 : INFO :  Test_AddEmp : test_AddEmp_005 : 53 : test_AddEmp_005 testcase is completed
+2024-09-24 11:17:01,844 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-24 11:17:01,845 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-24 11:17:01,845 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-24 11:17:03,904 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-24 11:17:05,037 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-24 11:17:07,421 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-24 11:17:10,528 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-24 11:17:12,614 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-24 11:17:14,140 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-24 11:17:14,917 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-24 11:17:15,244 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:17:18,498 : INFO :  Test_AddEmp : test_AddEmp_005 : 45 : Validating the success message for add emp 
+2024-09-24 11:17:28,625 : INFO :  Test_AddEmp : test_AddEmp_005 : 50 : test_AddEmp_005 testcase is failed
+2024-09-24 11:19:08,991 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-24 11:19:08,991 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-24 11:19:08,991 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-24 11:19:12,658 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-24 11:19:12,884 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-24 11:19:14,625 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-24 11:19:16,568 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-24 11:19:18,130 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-24 11:19:18,831 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-24 11:19:19,075 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-24 11:19:19,184 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:19:22,440 : INFO :  Test_AddEmp : test_AddEmp_005 : 45 : Validating the success message for add emp 
+2024-09-24 11:19:22,618 : INFO :  Test_AddEmp : test_AddEmp_005 : 47 : test_AddEmp_005 testcase is passed
+2024-09-24 11:19:22,618 : INFO :  Test_AddEmp : test_AddEmp_005 : 53 : test_AddEmp_005 testcase is completed
+2024-09-24 11:24:16,430 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-24 11:24:16,950 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-24 11:24:16,963 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-24 11:24:41,159 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-24 11:24:41,411 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-24 11:24:45,466 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-24 11:24:50,656 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-24 11:24:53,276 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-24 11:24:56,997 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-24 11:24:57,123 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-24 11:24:59,703 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-24 11:25:02,988 : INFO :  Test_AddEmp : test_AddEmp_005 : 45 : Validating the success message for add emp 
+2024-09-24 11:25:03,369 : INFO :  Test_AddEmp : test_AddEmp_005 : 47 : test_AddEmp_005 testcase is passed
+2024-09-24 11:25:03,370 : INFO :  Test_AddEmp : test_AddEmp_005 : 53 : test_AddEmp_005 testcase is completed
+2024-09-26 16:12:48,335 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 16:12:51,622 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 16:13:07,598 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 16:13:10,954 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 16:13:16,882 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-26 16:17:56,612 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 16:17:59,817 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 16:18:10,496 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 16:18:14,780 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 16:18:21,135 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-26 16:32:58,897 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 16:33:02,038 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 16:33:03,993 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 16:33:07,452 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 16:33:14,178 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-26 16:39:58,597 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 16:40:02,091 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 16:40:22,263 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 16:40:25,989 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 16:40:44,649 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-26 16:49:39,691 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 16:49:43,071 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 16:50:00,814 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 16:50:04,576 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 16:50:15,275 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-26 18:33:42,535 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-26 18:33:45,577 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-26 18:34:06,874 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-26 18:34:14,164 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-26 18:34:36,615 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-27 14:13:24,527 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:13:27,654 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:13:38,500 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-27 14:13:41,654 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-27 14:13:48,467 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-27 14:20:16,165 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:20:19,207 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:20:23,659 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-27 14:20:27,482 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-27 14:20:33,084 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-27 14:24:40,559 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:24:43,595 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:24:45,534 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-27 14:24:48,912 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-27 14:24:54,803 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-27 14:28:24,467 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:28:27,490 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:28:28,789 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-27 14:28:32,155 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-27 14:28:37,993 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-27 14:40:22,252 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:40:25,311 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:42:20,636 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:42:23,642 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:43:11,819 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:43:14,831 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 14:44:17,903 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 14:44:20,954 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 15:04:18,553 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 15:04:21,883 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 15:07:01,437 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 15:07:04,673 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-27 15:10:17,273 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-27 15:10:22,386 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 17:23:04,897 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-29 17:23:09,911 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 17:23:35,492 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-29 17:23:38,814 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-29 17:23:44,938 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-29 17:45:39,609 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-29 17:45:44,868 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 17:45:46,059 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-29 17:45:49,320 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-29 17:45:55,679 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-29 17:49:20,961 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-29 17:49:26,253 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 17:49:29,933 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-29 17:49:33,152 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-29 17:49:39,579 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-29 17:54:00,399 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-29 17:54:05,403 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 17:54:06,195 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-29 17:54:09,512 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-29 17:54:16,631 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-29 18:09:25,236 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 19 : Opening browser
+2024-09-29 18:09:30,289 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 22 : Enter Username
+2024-09-29 18:09:31,301 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 24 : Enter Password
+2024-09-29 18:09:34,493 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-09-29 18:09:40,224 : INFO :  Test_SearchEmp : test_SearchEmp_006 : 31 : Click on PIM Button
+2024-09-29 18:16:50,146 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-29 18:16:50,315 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-29 18:16:50,315 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-29 18:16:57,492 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-29 18:16:57,693 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-29 18:17:01,291 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-29 18:17:07,334 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-29 18:17:12,434 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-29 18:17:13,303 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-29 18:17:13,341 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-29 18:17:13,372 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-29 18:18:07,271 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-29 18:18:07,271 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-29 18:18:07,271 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-29 18:18:08,046 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-29 18:18:08,093 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-29 18:18:10,696 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-29 18:18:13,105 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-29 18:18:14,964 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-29 18:18:15,666 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-29 18:18:15,688 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-29 18:18:15,720 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-29 18:26:08,952 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-29 18:26:08,983 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-29 18:26:08,983 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-29 18:26:14,532 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-29 18:26:14,833 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-29 18:26:18,497 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-29 18:26:22,333 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-29 18:26:24,010 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-29 18:26:24,789 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-29 18:26:24,811 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-29 18:26:24,827 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-29 18:31:35,034 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-29 18:31:35,220 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-29 18:31:35,220 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-29 18:31:46,849 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-29 18:31:47,134 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-29 18:31:50,028 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-29 18:31:55,286 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-29 18:31:57,176 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-29 18:31:58,080 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-29 18:31:58,117 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-29 18:31:58,145 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
+2024-09-29 18:35:41,359 : INFO :  Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-09-29 18:35:41,514 : INFO :  Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-09-29 18:35:41,514 : INFO :  Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-09-29 18:35:47,640 : INFO :  Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-09-29 18:35:48,424 : INFO :  Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-09-29 18:35:52,157 : INFO :  Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-09-29 18:35:56,509 : INFO :  Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-09-29 18:35:59,019 : INFO :  Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-09-29 18:36:00,053 : INFO :  Test_AddEmp : test_AddEmp_005 : 36 : Enter MiddleName
+2024-09-29 18:36:00,082 : INFO :  Test_AddEmp : test_AddEmp_005 : 38 : Enter LastName
+2024-09-29 18:36:00,114 : INFO :  Test_AddEmp : test_AddEmp_005 : 42 : Click On Save Button
